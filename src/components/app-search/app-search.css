@@ -1,0 +1,21 @@
+.search {
+    background-color: #fff;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search-input {
+    width: 170px;
+    border: none;
+}
+
+.search-input:focus{
+    outline: none;
+}
+
+.search i {
+    width: 30px;
+    text-align: center;
+}
